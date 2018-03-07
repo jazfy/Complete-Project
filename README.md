@@ -1,0 +1,1 @@
+Today I begin with use jupyter notebook to extract valid information. Fortunately, my plan is smooth, and the sentiments section already have been done.
